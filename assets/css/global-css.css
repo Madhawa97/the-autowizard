@@ -9,3 +9,11 @@
 .dropdown:hover>.dropdown-menu {
     display: block;
 }
+
+/* ------------------ auto dark mode --------------- */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: var(--bs-dark);
+        color: var(--bs-light);
+    }
+}
