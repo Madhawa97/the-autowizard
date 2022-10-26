@@ -19,6 +19,12 @@ body {
     display: block;
 }
 
+/* ------------------ hero ------------------------- */
+#hero img {
+    transform: translate(-14px, -5px);
+}
+
+
 /* ------------------ auto dark mode --------------- */
 @media (prefers-color-scheme: dark) {
     body {
