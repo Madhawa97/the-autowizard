@@ -31,4 +31,13 @@ body {
         background-color: var(--bs-dark);
         color: var(--bs-light);
     }
+
+    #nav-brand, .navbar-nav li a {
+        color: var(--bs-light);
+    }
+
+    .active {
+        color: '#fff'
+    }
+
 }
