@@ -33,11 +33,32 @@ body {
     }
 
     #nav-brand, .navbar-nav li a {
+        color: var(--bs-gray-400);
+    }
+
+    #cards-container {
+        color: var(--bs-dark);
+    }
+
+    #header {
+        color: var(--bs-dark);
+        background-color: var(--bs-dark);
+    }
+
+    .dropdown:hover>.dropdown-menu {
+        background-color: var(--bs-dark);
+    }
+
+    .nav-item:hover>.nav-link {
         color: var(--bs-light);
     }
 
-    .active {
-        color: '#fff'
+    .navbar-toggler {
+        background-color: var(--bs-light);
+        color: var(--bs-gray-600);
     }
 
+    #nav-brand {
+        color: var(--bs-light);
+    }
 }
