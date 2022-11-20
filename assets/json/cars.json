@@ -1,0 +1,46 @@
+{
+    "cars": [
+        {
+            "name":"2015 AUDI Q7 PREMIUM PLUS",
+            "lot":"65725822",
+            "bid":"$6,700.00 USD",
+            "location": "MA - NORTH BOSTON",
+            "image_url": "./assets/img/cars/e88e685f69c74517a3f3e71fe4064609_ful.jpg"
+        },
+        {
+            "name": "2017 SUBARU FORESTER 2.5I LIMITED",
+            "lot": "53545732",
+            "bid": "START BIDDING",
+            "location": "NS - HALIFAX",
+            "image_url": "./assets/img/cars/b57cfac641174a80a0027df056f9f5fd_ful.jpg"
+        },
+        {
+            "name": "2015 VOLVO S60 PLATINUM",
+            "lot": "70799628",
+            "bid": "START BIDDING",
+            "location": "NY - NEWBURGH",
+            "image_url": "./assets/img/cars/0bd6f26a81534e269f456aab0cdacc46_ful.jpg"
+        },
+        {
+            "name": "2016 MERCEDES-BENZ C 300 4MATIC",
+            "lot": "65547762",
+            "bid": "$11,300.00 USD",
+            "location": "MA - NORTH BOSTON",
+            "image_url": "./assets/img/cars/8e02ec21c7db462696719166dad0e488_ful.jpg"
+        },
+        {
+            "name": "2016 PORSCHE PANAMERA 2",
+            "lot": "66945332",
+            "bid": "$775.00 USD",
+            "location": "GA - ATLANTA EAST",
+            "image_url": "./assets/img/cars/974469d32bff4457866ade3547636e3d_ful.jpg"
+        },
+        {
+            "name": "2020 CHEVROLET TRAX 1LT",
+            "lot": "65705382",
+            "bid": "START BIDDING",
+            "location": "NS - HALIFAX",
+            "image_url": "./assets/img/cars/a71ffaa938f34e60acbebb9c9f6a1c8d_ful.jpg"
+        }
+    ]
+}
